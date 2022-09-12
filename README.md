@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ToheebS&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ToheebS&show_icons=true&theme=tokyonight&hide=contribs,issues" />
