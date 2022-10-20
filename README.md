@@ -1,6 +1,6 @@
 ### Hi there friends 👋
 
-👋 Hi, I’m Toheeb
+👋 Hi, I’m Ade
 
 👀 I’m interested in soccer, coding, AWS
 
@@ -12,7 +12,7 @@
 
 
 <!--
-**ToheebS/ToheebS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hadekunle/hadekunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
