@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 
 <p align="center" >
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=ToheebS&show_icons=true&theme=tokyonight&hide=contribs,issues" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ToheebS&theme=tokyonight" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=Ade&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ade&theme=tokyonight" />
   
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheebs&show_icons=true&theme=tokyonight) -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ade&show_icons=true&theme=tokyonight) -->
 
 </p>
 
