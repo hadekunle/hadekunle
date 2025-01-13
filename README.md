@@ -18,6 +18,11 @@ Hi, I’m Ade! I'm passionate about soccer, coding, and AWS. Currently, I'm lear
   </a>
 </p>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [About ME](https://medium.com/@hade.kunle/about-me-draft-8f5d11b57bee)
+- [iPhone vs Andriod](https://medium.com/@hade.kunle/iphone-vs-andriod-fa3a7505d392)
+<!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My GitHub Stats:
 
@@ -31,10 +36,6 @@ Hi, I’m Ade! I'm passionate about soccer, coding, and AWS. Currently, I'm lear
 </p>
 
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [iPhone vs Andriod](https://medium.com/@hade.kunle/iphone-vs-andriod-fa3a7505d392)
-<!-- BLOG-POST-LIST:END -->
 
 
 
