@@ -23,10 +23,10 @@ Hi, I’m Ade! I'm passionate about soccer, coding, and AWS. Currently, I'm lear
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=hadekunle&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=hadekunle&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hadekunle&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" />
   </a> 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hadekunle&hide=php&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadekunle&hide=php&theme=tokyonight" alt="Top Languages" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadekunle&hide=php&theme=tokyonight" alt="Top Languages" height="200" />
   </a>
 </p>
 
