@@ -9,6 +9,7 @@ Hi, I’m Ade! I'm passionate about soccer, coding, and AWS. Currently, I'm lear
 ---
 
 ### Certificates
+Click badge to see credly verification
 
 [<img align="left" alt="AWS Certified Solutions Architect – Associate" width="80" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />](https://www.credly.com/badges/00737b2d-5d7f-4bcb-bc2e-109e38e934b1)
 [<img align="left" alt="AWS Certified Developer – Associate" width="80" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />](https://www.credly.com/badges/00cf685d-05a2-48bd-bee0-cc5ce162a32c)
