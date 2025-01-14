@@ -6,9 +6,7 @@ Hi, I’m Ade! I'm passionate about soccer, coding, and AWS. Currently, I'm lear
 
 💬 Feel free to ask me anything, or reach me at: [hade.kunle@proton.me](mailto:hade.kunle@proton.me)
 
----
-
-### Certificates
+## Certificates
 Click badge to see credly verification
 
 [<img align="left" alt="AWS Certified Solutions Architect – Associate" width="80" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />](https://www.credly.com/badges/00737b2d-5d7f-4bcb-bc2e-109e38e934b1)
@@ -22,9 +20,6 @@ Click badge to see credly verification
 <br>
 <br />
 <br />
-
-
----
 
 ## Connect with me:
 <p align="left">
@@ -45,7 +40,6 @@ Click badge to see credly verification
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My GitHub Stats:
-
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=hadekunle&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=hadekunle&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="220" />
@@ -54,10 +48,6 @@ Click badge to see credly verification
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadekunle&hide=php&theme=tokyonight" alt="Top Languages" height="220" />
   </a>
 </p>
-
-
-
-
 
 
 ## 🧰 Languages and Tools:
