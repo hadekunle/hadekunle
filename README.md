@@ -10,11 +10,19 @@ Hi, I’m Ade! I'm passionate about soccer, coding, and AWS. Currently, I'm lear
 
 ### Certificates
 
-[<img align="left" alt="scaled_practitioner" width="80" src="https://images.credly.com/size/680x680/images/f0adcc07-4388-459f-9b98-9a487ff1e8fd/cert_mark_SP_badge_large_300px.png" />](https://www.credly.com/badges/7b4b0de0-493d-45db-babe-b32241c8c845?source=linked_in_profile)
-[<img align="left" alt="aws_practitioner" width="80" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/badges/6d85c807-f0b3-4c42-9528-f1f269446761?source=linked_in_profile)
+[<img align="left" alt="AWS Certified Solutions Architect – Associate" width="80" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />](https://www.credly.com/badges/00737b2d-5d7f-4bcb-bc2e-109e38e934b1)
+[<img align="left" alt="AWS Certified Developer – Associate" width="80" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />](https://www.credly.com/badges/00cf685d-05a2-48bd-bee0-cc5ce162a32c)
+[<img align="left" alt="AWS Certified Security – Specialty" width="80" src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" />](https://www.credly.com/badges/36f1a182-658c-4f23-b1b2-9766dbe3ecf9)
+[<img align="left" alt="AWS Certified Cloud Practitioner" width="80" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/badges/9a0c4834-f0c0-4334-8d10-9ea8d409f3a3)
+[<img align="left" alt="CKAD: Certified Kubernetes Application Developer" width="80" src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" />](https://www.credly.com/badges/9cf10c71-46a4-4b72-9285-97cadd9f246b)
+[<img align="left" alt="HashiCorp Certified: Terraform Associate" width="80" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />](https://www.credly.com/badges/960dece4-fb6c-49cf-824a-599ac6826f86)
+[<img align="left" alt="CompTIA Security+" width="80" src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />](https://www.credly.com/badges/0ed2536b-0b93-4fb3-99df-c5abbb46e323)
+[<img align="left" alt="CompTIA Network+" width="80" src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" />](https://www.credly.com/badges/4d66fdb6-d93d-4684-9afd-da9827281879)
+[<img align="left" alt="Splunk Core Certified User" width="80" src="https://images.credly.com/size/680x680/images/93ffdd67-fa3a-4690-9289-094e2e3d63bd/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-User.png" />](https://www.credly.com/badges/335ed55f-2998-449e-bf87-acc74140755b)
 <br>
 <br />
 <br />
+
 
 ---
 
