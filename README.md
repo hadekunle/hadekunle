@@ -28,14 +28,15 @@ Click badge to see credly verification
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:4px;">
   </a>
   <!-- Medium -->
-  <a href="https://medium.com/@hade.kunle/about-me-draft-8f5d11b57bee" target="_blank">
+  <a href="[https://medium.com/@hade.kunle/about-me-draft-8f5d11b57bee](https://medium.com/@hade.kunle/about-me-ade-s-4be7a764c283)" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=35858&format=png&color=000000" alt="Medium" height="60" style="vertical-align:top; margin:4px;">
   </a>
 </p>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [About ME](https://medium.com/@hade.kunle/about-me-draft-8f5d11b57bee)
+- [Creating a Weather Dashboard System with Python and Openweather API](https://medium.com/@hade.kunle/creating-a-weather-dashboard-system-with-python-and-openweather-api-4549040d3807)
+- [About ME](https://medium.com/@hade.kunle/about-me-ade-s-4be7a764c283)
 - [iPhone vs Andriod](https://medium.com/@hade.kunle/iphone-vs-andriod-fa3a7505d392)
 <!-- BLOG-POST-LIST:END -->
 
