@@ -28,7 +28,7 @@ Click badge to see credly verification
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:4px;">
   </a>
   <!-- Medium -->
-  <a href="[https://medium.com/@hade.kunle/about-me-draft-8f5d11b57bee](https://medium.com/@hade.kunle/about-me-ade-s-4be7a764c283)" target="_blank">
+  <a href="https://medium.com/@hade.kunle" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=35858&format=png&color=000000" alt="Medium" height="60" style="vertical-align:top; margin:4px;">
   </a>
 </p>
