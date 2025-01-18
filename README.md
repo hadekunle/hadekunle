@@ -14,8 +14,8 @@ Click badge to see credly verification
 [<img align="left" alt="AWS Certified Security – Specialty" width="80" src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" />](https://www.credly.com/badges/36f1a182-658c-4f23-b1b2-9766dbe3ecf9)
 [<img align="left" alt="CKAD: Certified Kubernetes Application Developer" width="80" src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" />](https://www.credly.com/badges/9cf10c71-46a4-4b72-9285-97cadd9f246b)
 [<img align="left" alt="HashiCorp Certified: Terraform Associate" width="80" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />](https://www.credly.com/badges/960dece4-fb6c-49cf-824a-599ac6826f86)
+[<img align="left" alt="Azure Fundamentals" width="80" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />](https://learn.microsoft.com/en-us/users/10549364/credentials/c567a89a690c5edf)
 [<img align="left" alt="CompTIA Security+" width="80" src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />](https://www.credly.com/badges/0ed2536b-0b93-4fb3-99df-c5abbb46e323)
-[<img align="left" alt="CompTIA Network+" width="80" src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" />](https://www.credly.com/badges/4d66fdb6-d93d-4684-9afd-da9827281879)
 [<img align="left" alt="Splunk Core Certified User" width="80" src="https://images.credly.com/size/680x680/images/93ffdd67-fa3a-4690-9289-094e2e3d63bd/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-User.png" />](https://www.credly.com/badges/335ed55f-2998-449e-bf87-acc74140755b)
 <br>
 <br />
