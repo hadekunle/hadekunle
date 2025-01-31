@@ -38,8 +38,8 @@ Click badge to see credly verification
 - [Creating a SUPERBOWL FINAL voting app with AWS: ECR, ECS & API GATEWAY 🏈](https://medium.com/@hade.kunle/creating-a-superbowl-final-voting-app-with-aws-ecr-ecs-api-gateway-0cd4dfdcb560)
 - [Creating an NBA Datalake using Python and OpenSource API](https://medium.com/@hade.kunle/creating-an-nba-datalake-using-python-and-opensource-api-558aeb6b8c8d)
 - [Creating a Weather Dashboard System with Python and Openweather API](https://medium.com/@hade.kunle/creating-a-weather-dashboard-system-with-python-and-openweather-api-4549040d3807)
-- [About ME](https://medium.com/@hade.kunle/about-me-ade-s-4be7a764c283)
-- [iPhone vs Andriod](https://medium.com/@hade.kunle/iphone-vs-andriod-fa3a7505d392)
+<!-- - [About ME](https://medium.com/@hade.kunle/about-me-ade-s-4be7a764c283) -->
+<!-- - [iPhone vs Andriod](https://medium.com/@hade.kunle/iphone-vs-andriod-fa3a7505d392) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My GitHub Stats:
