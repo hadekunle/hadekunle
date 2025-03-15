@@ -1,6 +1,12 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=hadekunle.hadekunle) [![Github](https://img.shields.io/github/followers/hadekunle?label=Followers&logo=Github)](https://github.com/hadekunle) 
 
-# Welcome to my GitHub Page 👋
+<!-- # Welcome to my GitHub Page 👋 -->
+
+<h1 align="center">Welcome to my GitHub Page 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;AWS+Certified+Developer;Security Specialist;Data+Engineer;Automation+Enthusiast&center=true&width=800&height=50">
+</p>
 
 Hi, I’m Ade! I'm passionate about soccer, coding, and AWS. Currently, I'm learning to solve a 5x5 Rubik's cube 🧩 and looking to collaborate on exciting projects.
 
