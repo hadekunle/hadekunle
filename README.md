@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my GitHub Page 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;AWS+Certified+Developer;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Data+Engineer;Automation+Enthusiast&center=true&width=800&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;AWS+Certified+Developer;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Data+Engineer;Automation+Enthusiast&center=true&color=24FF76C6&width=800&height=50">
 </p>
 
 <!-- <p align="center">
